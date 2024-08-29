@@ -1,5 +1,5 @@
-- Hi, I’m Connor Holton
-  - How to reach me: connorholtonalt@gmail.com
+- Hi, I’m Connor Holton.
+  - Email: connorholtonalt@gmail.com
 
 - Programming languages that I currently use:
   - Python
