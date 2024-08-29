@@ -5,4 +5,4 @@
   - Python
   - C
     
-- I’m looking to collaborate on any programming projects, especially around game dev and computer vision.
+- I’m looking to collaborate on any programming projects, especially involving game development and computer vision.
