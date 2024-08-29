@@ -1,4 +1,4 @@
-- Hi, I’m Connor Holton.
+- Hello, World! I am Connor Holton.
   - Email: connorholtonalt@gmail.com
 
 - Programming languages that I currently use:
